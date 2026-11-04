@@ -5,7 +5,7 @@ body {
     margin: 0;
 }
 .name, h2 {
-    font-size: "Young Serif";
+    font-family: "Young Serif";
 }
 .container {
     display: flex;
